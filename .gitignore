@@ -1,0 +1,13 @@
+# Data files
+input/
+output/
+*.csv
+*.pkl
+*.joblib
+
+# System files
+.DS_Store
+.ipynb_checkpoints
+
+# Python cache
+__pycache__/
